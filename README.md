@@ -16,6 +16,6 @@ To install the prerequisites on a Debian(Ubuntu) based system, just do this:
 ###Running the script
 Run the script by providing it an argument for the URL of the TED Playlist you wish to download.
 
-For exmample, if you wish to download this playlist : "https://www.ted.com/playlists/211/the_art_of_meaningful_conversa", then just do it as follows:
+For example, if you wish to download this playlist : "https://www.ted.com/playlists/211/the_art_of_meaningful_conversa", then just do it as follows:
  
     ./ted-playlist-downloader.sh https://www.ted.com/playlists/211/the_art_of_meaningful_conversa
